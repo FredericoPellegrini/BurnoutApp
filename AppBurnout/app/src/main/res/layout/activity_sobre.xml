@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/sobre_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Desenvolvedor: Seu Nome\nEmail: seuemail@exemplo.com\nTelefone: (00) 12345-6789\n\nEste app tem como objetivo informar sobre a Síndrome de Burnout, oferecendo um guia simples e objetivo para o público em geral."
+        android:textSize="16sp"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>
